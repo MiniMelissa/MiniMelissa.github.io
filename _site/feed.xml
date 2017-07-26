@@ -3,10 +3,10 @@
   <channel>
     <title>Melissa Xu</title>
     <description>personal website</description>
-    <link>https://minimelissa.github.io/</link>
-    <atom:link href="https://minimelissa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jul 2017 00:35:42 -0400</pubDate>
-    <lastBuildDate>Wed, 26 Jul 2017 00:35:42 -0400</lastBuildDate>
+    <link>https://minimelissa.github.io//</link>
+    <atom:link href="https://minimelissa.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Jul 2017 00:41:55 -0400</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2017 00:41:55 -0400</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -21,8 +21,8 @@
 
 </description>
         <pubDate>Wed, 26 Jul 2017 00:00:00 -0400</pubDate>
-        <link>https://minimelissa.github.io/blog/2017/07/26/datastructure.html</link>
-        <guid isPermaLink="true">https://minimelissa.github.io/blog/2017/07/26/datastructure.html</guid>
+        <link>https://minimelissa.github.io//blog/2017/07/26/datastructure.html</link>
+        <guid isPermaLink="true">https://minimelissa.github.io//blog/2017/07/26/datastructure.html</guid>
         
         <category>programming,english</category>
         
@@ -73,8 +73,8 @@ the special word &lt;code class=&quot;highlighter-rouge&quot;&gt;?link?&lt;/code
 &lt;p&gt;If you have a problem, &lt;a href=&quot;https://github.com/kkninjae/book/issues&quot;&gt;github issue is ready&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Aug 2015 00:00:00 -0400</pubDate>
-        <link>https://minimelissa.github.io/blog/2015/08/28/jekyll-theme-book.html</link>
-        <guid isPermaLink="true">https://minimelissa.github.io/blog/2015/08/28/jekyll-theme-book.html</guid>
+        <link>https://minimelissa.github.io//blog/2015/08/28/jekyll-theme-book.html</link>
+        <guid isPermaLink="true">https://minimelissa.github.io//blog/2015/08/28/jekyll-theme-book.html</guid>
         
         <category>english</category>
         
@@ -141,8 +141,8 @@ if __name__ == '__main__':
 &lt;p&gt;Est inani prodesset ex. Eu reque perfecto consulatu vix, omnes concludaturque eum an. Detraxit consequuntur per eu, virtute atomorum voluptatibus mei ei. Tamquam vituperatoribus et vis, quo in copiosae apeirian.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Aug 2015 00:00:00 -0400</pubDate>
-        <link>https://minimelissa.github.io/blog/2015/08/28/book-style-doc.html</link>
-        <guid isPermaLink="true">https://minimelissa.github.io/blog/2015/08/28/book-style-doc.html</guid>
+        <link>https://minimelissa.github.io//blog/2015/08/28/book-style-doc.html</link>
+        <guid isPermaLink="true">https://minimelissa.github.io//blog/2015/08/28/book-style-doc.html</guid>
         
         <category>english</category>
         
