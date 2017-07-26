@@ -1,8 +1,8 @@
 title: Melissa Xu
 description: personal website
 url: https://minimelissa.github.io/
-avatar: assets/img/avatar.gif
-favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
+avatar: /assets/img/avatar.gif
+favicon: /assets/img/favicon.ico
 google_analytics: # google analytics id
 disqus_shortname: # disqus_shortname for disqus comment system
 
